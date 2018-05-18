@@ -1,0 +1,58 @@
+html {
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  font-size: 70px;
+  color: blue;
+}
+
+.motto {
+  font-family: 'IBM Plex Mono', monospace;
+  width: 50%;
+  float: right;
+}
+
+h2,h3,h4 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  font-size: 30px;
+  color: blue;
+}
+ul {
+  text-align: center;
+  font-family: 'IBM Plex Mono', monospace;
+  list-style-position: inside;
+}
+header {
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+}
+.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body {
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+}
+footer {
+  margin-top: 10px;
+}
